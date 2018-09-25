@@ -1,0 +1,20 @@
+Package: rcellminerUtilsCDB
+Title: rcellminerUtilsCDB
+Version: 0.99.1
+Date: 2018-09-25
+Author: Vinodh Rajapakse, Augustin Luna
+Maintainer: Vinodh Rajapakse <vinodh.rajapakse@nih.gov>
+Description: Utility functions for rcellminer package
+License: LGPL-3
+Depends:
+    R (>= 3.1.1),
+    rcellminer (>= 2.0.0),
+    rcellminerData (>= 2.0.0),
+    stringr,
+    stringdist,
+    dplyr,
+    tidyverse,
+    igraph
+LazyData: true
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
