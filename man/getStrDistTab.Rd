@@ -24,5 +24,5 @@ Returns a table of approximate matches to a set of strings, with
 matches selected from a specified set.
 }
 \concept{
-rcellminerUtils
+rcellminerUtilsCDB
 }

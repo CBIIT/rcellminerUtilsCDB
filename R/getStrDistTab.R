@@ -11,7 +11,7 @@
 #'  as to the best match score.
 #'
 #'
-#' @concept rcellminerUtils
+#' @concept rcellminerUtilsCDB
 #' @export
 getStrDistTab <- function(seedSet, matchSet){
   if (!require(stringdist)){

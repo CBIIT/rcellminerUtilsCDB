@@ -10,5 +10,5 @@ getTissueToSamplesMap(sampleData, typeLevelSeparator = ":")
 Get a named list mapping from tissue types to associated samples.
 }
 \concept{
-rcellminerUtils
+rcellminerUtilsCDB
 }

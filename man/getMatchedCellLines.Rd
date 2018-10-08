@@ -21,5 +21,5 @@ getMatchedCellLines(c("ccle", "cgp", "nci60"))
 
 }
 \concept{
-rcellminerUtils
+rcellminerUtilsCDB
 }

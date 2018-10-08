@@ -1,7 +1,7 @@
 #' Get a named list mapping from tissue types to associated samples.
 #'
 #'
-#' @concept rcellminerUtils
+#' @concept rcellminerUtilsCDB
 #' @export
 getTissueToSamplesMap <- function(sampleData, typeLevelSeparator = ":"){
   stopifnot(all(!duplicated(sampleData$Name)))

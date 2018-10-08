@@ -8,7 +8,7 @@
 #' @examples
 #' getMatchedCellLines(c("ccle", "cgp", "nci60"))
 #'
-#' @concept rcellminerUtils
+#' @concept rcellminerUtilsCDB
 #' @export
 getMatchedCellLines <- function(dataSources){
   if (!(length(dataSources) > 1)){

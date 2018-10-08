@@ -11,16 +11,16 @@
 #' @examples
 #' getDbDrugIds(drugName = "Topotecan", dbName = "nci60")
 #'
-#' @concept rcellminerUtils
+#' @concept rcellminerUtilsCDB
 #' @export
 getDbDrugIds <- function(drugName, dbName){
-  availableDbs <- colnames(rcellminerUtils::drugSynonymTab[,-1])
+  availableDbs <- colnames(rcellminerUtilsCDB::drugSynonymTab[,-1])
   if (!(dbName %in% availableDbs)){
     stop(paste0("Select dbName from: ", paste0(availableDbs, collapse = ", "), "."))
   }
 
-  availableInDb <- !is.na(rcellminerUtils::drugSynonymTab[, dbName])
-  dbDrugSynTab <- rcellminerUtils::drugSynonymTab[availableInDb, ]
+  availableInDb <- !is.na(rcellminerUtilsCDB::drugSynonymTab[, dbName])
+  dbDrugSynTab <- rcellminerUtilsCDB::drugSynonymTab[availableInDb, ]
 
   drugName <- toupper(drugName)
   i <- which(vapply(dbDrugSynTab$NAME_SET, function(x){ drugName %in% x }, logical(1)))
