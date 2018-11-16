@@ -1,7 +1,7 @@
 Package: rcellminerUtilsCDB
 Title: rcellminerUtilsCDB
-Version: 0.99.2
-Date: 2018-09-25
+Version: 0.99.3
+Date: 2018-11-15
 Author: Vinodh Rajapakse, Augustin Luna
 Maintainer: Vinodh Rajapakse <vinodh.rajapakse@nih.gov>
 Description: Utility functions for rcellminer package
