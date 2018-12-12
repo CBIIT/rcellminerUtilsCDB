@@ -2,6 +2,7 @@
 
 export(getDbDrugIds)
 export(getEmtScores)
+export(getGeneSynonyms)
 export(getMatchedCellLines)
 export(getPcaResults)
 export(getStrDistTab)
