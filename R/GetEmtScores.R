@@ -4,9 +4,10 @@
 #' @param sampleOncoTree1  a vector with tissue of origin for each sample (in genedata) based on oncoTree level 1 
 #'
 #' @return A list with the following elements:
-#' $emtPc1 pc1 scores 
+#' $emtScores pc1 scores 
 #' $mdaAnnot metadata for the scores
 #' $nbEmtGenes number of used EMT genes
+#' $emtStatus final emt status
 #' 
 #' @examples
 #' genedata <- exprs(rcellminerData::molData@eSetList$xai)
@@ -88,8 +89,23 @@ mdaAnnot <-  c("KOHN_EMT_PC1",
     "1st Principal Component of Non-Hematopoietic Cell Line Expression Data Matrix for 38 EMT Genes",
     "For EMT gene set details, see PMID: 24940735, Kohn et al., Gene Expression Correlations in Human Cancer Cell Lines Define Molecular Interaction Networks for Epithelial Phenotype")
 
-
-result=list(emtScores=emtPc1,mdaAnnot=mdaAnnot,nbEmtGenes=length(emtGenes))
+## add EMT status
+im = which(emtPc1 <=0) ; ie = which(emtPc1 >0)
+mcut = mean(emtPc1[im],na.rm=T) + sd(emtPc1[im], na.rm=T)
+ecut = mean(emtPc1[ie],na.rm=T) - sd(emtPc1[ie], na.rm=T)
+emtstatus=rep("NA",length(emtPc1))
+for (k in 1:length(emtPc1)) {
+  if (!is.na(emtPc1[k])) {
+    if (emtPc1[k]<=0) {
+      if (emtPc1[k]< mcut) emtstatus[k]="Mesenchymal" else  emtstatus[k]="Epithelial-Mesenchymal"
+    } else
+    {
+      if (emtPc1[k]> ecut) emtstatus[k]="Epithelial" else  emtstatus[k]="Epithelial-Mesenchymal"
+    }
+  }
+}
+##
+result=list(emtScores=emtPc1,mdaAnnot=mdaAnnot,nbEmtGenes=length(emtGenes),emtStatus=emtstatus)
 return(result)
 
 }
