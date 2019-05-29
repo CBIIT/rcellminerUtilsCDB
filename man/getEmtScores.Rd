@@ -13,9 +13,10 @@ getEmtScores(genedata, sampleOncoTree1)
 }
 \value{
 A list with the following elements:
-$emtPc1 pc1 scores 
+$emtScores pc1 scores 
 $mdaAnnot metadata for the scores
 $nbEmtGenes number of used EMT genes
+$emtStatus final emt status
 }
 \description{
 Get EMT score for a data gene expression matrix or dataframe.

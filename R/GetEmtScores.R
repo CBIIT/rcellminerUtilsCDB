@@ -8,6 +8,8 @@
 #' $mdaAnnot metadata for the scores
 #' $nbEmtGenes number of used EMT genes
 #' $emtStatus final emt status
+#' $mesCut mesenchymal threshold
+#' $epiCut epithelial threshold
 #' 
 #' @examples
 #' genedata <- exprs(rcellminerData::molData@eSetList$xai)
@@ -105,7 +107,7 @@ for (k in 1:length(emtPc1)) {
   }
 }
 ##
-result=list(emtScores=emtPc1,mdaAnnot=mdaAnnot,nbEmtGenes=length(emtGenes),emtStatus=emtstatus)
+result=list(emtScores=emtPc1,mdaAnnot=mdaAnnot,nbEmtGenes=length(emtGenes),emtStatus=emtstatus,mesCut=mcut,epiCut=ecut)
 return(result)
 
 }
