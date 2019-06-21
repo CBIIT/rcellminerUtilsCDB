@@ -17,6 +17,8 @@ $emtScores pc1 scores
 $mdaAnnot metadata for the scores
 $nbEmtGenes number of used EMT genes
 $emtStatus final emt status
+$mesCut mesenchymal threshold
+$epiCut epithelial threshold
 }
 \description{
 Get EMT score for a data gene expression matrix or dataframe.
