@@ -16,7 +16,8 @@
 getDbDrugIds <- function(drugName, dbName){
   availableDbs <- colnames(rcellminerUtilsCDB::drugSynonymTab[,-1])
   if (!(dbName %in% availableDbs)){
-    stop(paste0("Select dbName from: ", paste0(availableDbs, collapse = ", "), "."))
+    # stop(paste0("Select dbName from: ", paste0(availableDbs, collapse = ", "), "."))
+    shiny::validate(need(FALSE, paste("ERROR:", paste0("Select dbName from: ", paste0(availableDbs, collapse = ", "), "."))))
   }
 
   availableInDb <- !is.na(rcellminerUtilsCDB::drugSynonymTab[, dbName])
