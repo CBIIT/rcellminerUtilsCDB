@@ -1,7 +1,7 @@
 Package: rcellminerUtilsCDB
 Title: rcellminerUtilsCDB
-Version: 1.0.2
-Date: 2019-07-02
+Version: 1.0.3
+Date: 2019-07-17
 Author: Vinodh Rajapakse, Augustin Luna
 Maintainer: Fathi Elloumi <fathi.elloumi@nih.gov>
 Description: Utility functions for rcellminer package
