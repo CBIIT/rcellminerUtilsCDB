@@ -12,7 +12,7 @@
 #' $epiCut epithelial threshold
 #' 
 #' @examples
-#' genedata <- exprs(rcellminerData::molData@eSetList$xai)
+#' genedata <- Biobase::exprs(rcellminerData::molData@eSetList$xai)
 #' sampleOncoTree1 <- rcellminerData::molData@sampleData@samples$OncoTree1
 #' emtResults <- getEmtScores(genedata,sampleOncoTree1)
 #'

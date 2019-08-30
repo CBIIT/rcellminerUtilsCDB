@@ -24,7 +24,7 @@ $epiCut epithelial threshold
 Get EMT score for a data gene expression matrix or dataframe.
 }
 \examples{
-genedata <- exprs(rcellminerData::molData@eSetList$xai)
+genedata <- Biobase::exprs(rcellminerData::molData@eSetList$xai)
 sampleOncoTree1 <- rcellminerData::molData@sampleData@samples$OncoTree1
 emtResults <- getEmtScores(genedata,sampleOncoTree1)
 

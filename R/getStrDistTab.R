@@ -14,7 +14,7 @@
 #' @concept rcellminerUtilsCDB
 #' @export
 getStrDistTab <- function(seedSet, matchSet){
-  if (!require(stringdist)){
+  if (!requireNamespace("stringdist",quietly=TRUE)){
     stop("Please install the stringdist package.")
   }
   seedSet <- unique(seedSet)
@@ -24,7 +24,7 @@ getStrDistTab <- function(seedSet, matchSet){
   rownames(strDistTab) <- strDistTab$SEED
 
   for (seed in rownames(strDistTab)){
-    d <- stringdist(toupper(seed), toupper(matchSet), method = "jw", p=0.1)
+    d <- stringdist::stringdist(toupper(seed), toupper(matchSet), method = "jw", p=0.1)
     names(d) <- matchSet
     d <- sort(d)
     strDistTab[seed, "BEST_MATCH_SCORE"] <- d[1]
