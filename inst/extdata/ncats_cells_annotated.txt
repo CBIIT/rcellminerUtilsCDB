@@ -1,0 +1,91 @@
+CCLE_Name	ID	ccle	GDSC	mdamills	new	original.order	TissueType	ccle2	OncoTree1	OncoTree2	OncoTree3	OncoTree4	EMT
+769P_KIDNEY	769P	769-P				1	kidney: clear_cell_renal_cell_carcinoma	769-P	Kidney	Renal Cell Carcinoma (RCC)	Renal Clear Cell Carcinoma (CCRCC)	NA	Mesenchymal
+786O_KIDNEY	786O	786-O				2	kidney: clear_cell_renal_cell_carcinoma	786-O	Kidney	Renal Cell Carcinoma (RCC)	Renal Clear Cell Carcinoma (CCRCC)	NA	Mesenchymal
+A2780_OVARY	A2780	A2780				3	ovary: adenocarcinoma	A2780	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	Mesenchymal
+A375_SKIN	A375	A-375				4	skin: malignant_melanoma	A-375	Skin	Melanoma (MEL)	NA	NA	Mesenchymal
+A427_LUNG	A427	A427				5	Lung	A427	Lung	NA	NA	NA	NA
+A431_SKIN	A431	NA	A431			6	OTHER	A431	Other	NA	NA	NA	Epithelial
+A549_LUNG	A549	A549				7	lung: non_small_cell_carcinoma	A549	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	Mesenchymal
+ACHN_KIDNEY	ACHN	ACHN				8	kidney: renal_cell_carcinoma	ACHN	Kidney	Renal Cell Carcinoma (RCC)	NA	NA	Mesenchymal
+AGS_STOMACH	AGS	AGS				9	stomach: adenocarcinoma	AGS	Esophagus_Stomach	Esophagogastric Adenocarcinoma (EGC)	Stomach Adenocarcinoma (STAD)	NA	Epithelial
+AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AMO1	AMO-1				10	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	AMO-1	Blood	Multiple Myeloma (MM)	NA	NA	NA
+BT20_BREAST	BT20	BT-20				11	breast: ductal_carcinoma	BT-20	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	Epithelial
+BT474_BREAST	BT474	BT-474				12	breast: ductal_carcinoma	BT-474	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	Epithelial
+BT549_BREAST	BT549	BT-549				13	breast: ductal_carcinoma	BT-549	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	Mesenchymal
+CCRFCEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCRFCEM	NA	CCRF-CEM			14	NA	CCRF-CEM	Blood	Leukemia (LEUK)	NA	NA	NA
+DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DAUDI	Daudi				15	haematopoietic_and_lymphoid_tissue: Burkitt_lymphoma	Daudi	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Burkitt Lymphoma (BL)	NA
+DETROIT562_UPPER_AERODIGESTIVE_TRACT	DETROIT562	Detroit 562				16	upper_aerodigestive_tract: carcinoma	Detroit 562	Head_Neck	NA	NA	NA	Epithelial
+HCC38_BREAST	HCC38	HCC38				17	breast: ductal_carcinoma	HCC38	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	Epithelial
+HCC827_LUNG	HCC827	HCC827				18	lung: adenocarcinoma	HCC827	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	Epithelial
+HCT15_LARGE_INTESTINE	HCT15	HCT-15				19	large_intestine: adenocarcinoma	HCT-15	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	Epithelial
+HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL9217	HEL 92.1.7				20	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	HEL 92.1.7	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	NA
+HS578T_BREAST	HS578T	Hs 578T				21	breast: ductal_carcinoma	Hs 578T	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	Mesenchymal
+HS766T_PANCREAS	HS766T	Hs 766T				22	pancreas: ductal_carcinoma	Hs 766T	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Epithelial-Mesenchymal
+HT1080_SOFT_TISSUE	HT1080	HT-1080				23	soft_tissue: fibrosarcoma	HT-1080	Soft_Tissue	Fibrosarcoma (FIBS)	NA	NA	Mesenchymal
+HUCCT1_BILIARY_TRACT	HUCCT1	HuCCT1				24	biliary_tract: carcinoma	HuCCT1	Biliary_Tract	NA	NA	NA	Epithelial
+HUPT3_PANCREAS	HUPT3	HUP-T3				25	pancreas: carcinoma	HUP-T3	Pancreas	NA	NA	NA	Epithelial
+HUPT4_PANCREAS	HUPT4	HUP-T4				26	pancreas: carcinoma	HUP-T4	Pancreas	NA	NA	NA	Epithelial
+IM9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	IM9	NA	IM-9			27	NA	IM-9	Blood	Multiple Myeloma (MM)	NA	NA	NA
+JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JJN3	JJN-3				28	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	JJN-3	Blood	Multiple Myeloma (MM)	NA	NA	NA
+JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JM1	JM1				29	haematopoietic_and_lymphoid_tissue: B_cell_lymphoma_unspecified	JM1	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	NA	NA
+K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K562	K-562				30	haematopoietic_and_lymphoid_tissue: blast_phase_chronic_myeloid_leukaemia	K-562	Blood	Leukemia (LEUK)	Chronic Myelogenous Leukemia (CML)	NA	NA
+KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS12BM	KMS-12-BM				31	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	KMS-12-BM	Blood	Multiple Myeloma (MM)	NA	NA	NA
+L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L363	L-363				32	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	L-363	Blood	Multiple Myeloma (MM)	NA	NA	NA
+LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LOUCY	Loucy				33	haematopoietic_and_lymphoid_tissue: acute_lymphoblastic_T_cell_leukaemia	Loucy	Blood	Leukemia (LEUK)	Acute Lymphoid Leukemia (ALL)	NA	NA
+LOVO_LARGE_INTESTINE	LOVO	LoVo				34	large_intestine: adenocarcinoma	LoVo	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	Epithelial
+MCF7_BREAST	MCF7	MCF7				35	breast: carcinoma	MCF7	Breast	Breast Carcinoma (BRCA)	NA	NA	Epithelial
+MDAMB231_BREAST	MDAMB231	MDA-MB-231				36	breast: carcinoma	MDA-MB-231	Breast	Breast Carcinoma (BRCA)	NA	NA	Mesenchymal
+MDAMB436_BREAST	MDAMB436	MDA-MB-436				37	breast: carcinoma	MDA-MB-436	Breast	Breast Carcinoma (BRCA)	NA	NA	Mesenchymal
+MDAMB468_BREAST	MDAMB468	MDA-MB-468				38	breast: carcinoma	MDA-MB-468	Breast	Breast Carcinoma (BRCA)	NA	NA	Epithelial
+ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ME1	ME-1				39	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	ME-1	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	NA
+MIAPACA2_PANCREAS	MIAPACA2	MIA PaCa-2				40	pancreas: ductal_carcinoma	MIA PaCa-2	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Mesenchymal
+MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MM1S	MM1-S				41	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	MM1-S	Blood	Multiple Myeloma (MM)	NA	NA	NA
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM13	MOLM-13				42	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	MOLM-13	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	NA
+MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP8	MOLP-8				43	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	MOLP-8	Blood	Multiple Myeloma (MM)	NA	NA	NA
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MV411	MV-4-11				44	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	MV-4-11	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	NA
+NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM6	NALM-6				45	haematopoietic_and_lymphoid_tissue: acute_lymphoblastic_B_cell_leukaemia	NALM-6	Blood	Leukemia (LEUK)	Acute Lymphoid Leukemia (ALL)	NA	NA
+NCIH1299_LUNG	NCIH1299	NCI-H1299				46	lung: non_small_cell_carcinoma	NCI-H1299	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	Mesenchymal
+NCIH1355_LUNG	NCIH1355	NCI-H1355				47	lung: adenocarcinoma	NCI-H1355	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	Epithelial-Mesenchymal
+NCIH1395_LUNG	NCIH1395	NCI-H1395				48	lung: adenocarcinoma	NCI-H1395	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	Epithelial
+NCIH1437_LUNG	NCIH1437	NCI-H1437				49	lung: adenocarcinoma	NCI-H1437	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	Epithelial
+NCIH2122_LUNG	NCIH2122	NCI-H2122				50	lung: adenocarcinoma	NCI-H2122	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	Epithelial
+NCIH2170_LUNG	NCIH2170	NCI-H2170				51	lung: squamous_cell_carcinoma	NCI-H2170	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Squamous Cell Carcinoma (LUSC)	NA	Epithelial
+NCIH226_LUNG	NCIH226	NCI-H226				52	lung: squamous_cell_carcinoma	NCI-H226	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Squamous Cell Carcinoma (LUSC)	NA	Mesenchymal
+NCIH23_LUNG	NCIH23	NCI-H23				53	lung: non_small_cell_carcinoma	NCI-H23	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	Mesenchymal
+NCIH322M_LUNG	NCIH322M	NCI-H322				54	lung: adenocarcinoma	NCI-H322	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	Epithelial
+NCIH460_LUNG	NCIH460	NCI-H460				55	lung: large_cell_carcinoma	NCI-H460	Lung	Non-Small Cell Lung Cancer (NSCLC)	Large Cell Lung Carcinoma (LCLC)	NA	Mesenchymal
+NCIH522_LUNG	NCIH522	NCI-H522				56	lung: non_small_cell_carcinoma	NCI-H522	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	Epithelial-Mesenchymal
+NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCIH929	NCI-H929				57	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	NCI-H929	Blood	Multiple Myeloma (MM)	NA	NA	NA
+NIHOVCAR3_OVARY	NIHOVCAR3	NIH:OVCAR-3				58	ovary: carcinoma	NIH:OVCAR-3	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	Epithelial
+OCIM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIM2	NA			OCIM2	59	haematopoietic_and_lymphoid_tissue	OCIM2	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	NA
+OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OPM2	OPM-2				60	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	OPM-2	Blood	Multiple Myeloma (MM)	NA	NA	NA
+OVCAR4_OVARY	OVCAR4	OVCAR-4				61	ovary: carcinoma	OVCAR-4	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	Epithelial
+OVCAR8_OVARY	OVCAR8	OVCAR-8				62	ovary: carcinoma	OVCAR-8	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	Mesenchymal
+PA1_OVARY	PA1	NA	PA-1			63	NA	PA-1	Ovary	NA	NA	NA	Mesenchymal
+PANC1005_PANCREAS	PANC1005	Panc 10.05				64	pancreas: ductal_carcinoma	Panc 10.05	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Epithelial
+PANC1_PANCREAS	PANC1	PANC-1				65	pancreas: ductal_carcinoma	PANC-1	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Epithelial-Mesenchymal
+PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PFEIFFER	Pfeiffer				66	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Pfeiffer	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	NA
+PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PL21	PL-21				67	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	PL-21	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	NA
+PL45_PANCREAS	PL45	PL45				68	pancreas: ductal_carcinoma	PL45	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Epithelial
+PSN1_PANCREAS	PSN1	PSN1				69	pancreas: ductal_carcinoma	PSN1	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Mesenchymal
+RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RAJI	Raji				70	haematopoietic_and_lymphoid_tissue: Burkitt_lymphoma	Raji	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Burkitt Lymphoma (BL)	NA
+RD_SOFT_TISSUE	RD	RD				71	soft_tissue: embryonal	RD	Soft_Tissue	Rhabdomyosarcoma (RMS)	NA	NA	Mesenchymal
+RKO_LARGE_INTESTINE	RKO	RKO				72	large_intestine: adenocarcinoma	RKO	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	Epithelial-Mesenchymal
+RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI8226	RPMI 8226				73	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	RPMI 8226	Blood	Multiple Myeloma (MM)	NA	NA	NA
+RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RS411	RS4;11				74	haematopoietic_and_lymphoid_tissue: acute_lymphoblastic_B_cell_leukaemia	RS4;11	Blood	Leukemia (LEUK)	Acute Lymphoid Leukemia (ALL)	NA	NA
+SKBR3_BREAST	SKBR3	SK-BR-3				75	breast: carcinoma	SK-BR-3	Breast	Breast Carcinoma (BRCA)	NA	NA	Epithelial
+SKMEL28_SKIN	SKMEL28	SK-MEL-28				76	skin: malignant_melanoma	SK-MEL-28	Skin	Melanoma (MEL)	NA	NA	Mesenchymal
+SMSCTR_SOFT_TISSUE	SMSCTR	NA		SMSCTR		77	sarcoma	SMSCTR	soft_tissue	NA	NA	NA	NA
+SNU16_STOMACH	SNU16	SNU-16				78	stomach: undifferentiated_adenocarcinoma	SNU-16	Esophagus_Stomach	Esophagogastric Adenocarcinoma (EGC)	Stomach Adenocarcinoma (STAD)	NA	Epithelial
+SU8686_PANCREAS	SU8686	SU.86.86				79	pancreas: ductal_carcinoma	SU.86.86	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Epithelial
+SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL8	SU-DHL-8				80	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	SU-DHL-8	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	NA
+SW1990_PANCREAS	SW1990	SW 1990				81	pancreas: ductal_carcinoma	SW 1990	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	Epithelial-Mesenchymal
+SW403_LARGE_INTESTINE	SW403	SW403				82	large_intestine: adenocarcinoma	SW403	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	Epithelial
+SW480_LARGE_INTESTINE	SW480	SW480				83	large_intestine: adenocarcinoma	SW480	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	Epithelial-Mesenchymal
+SW579_THYROID	SW579	SW579				84	thyroid: anaplastic_carcinoma	SW579	Thyroid	Anaplastic Thyroid Cancer (THAP)	NA	NA	Mesenchymal
+T24_URINARY_TRACT	T24	T24				85	urinary_tract: transitional_cell_carcinoma	T24	Bladder_Urinary_Tract	Bladder Urothelial Carcinoma (BLCA)	NA	NA	Mesenchymal
+T47D_BREAST	T47D	T-47D				86	breast: ductal_carcinoma	T-47D	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	Epithelial
+TCCSUP_URINARY_TRACT	TCCSUP	TCCSUP				87	urinary_tract: transitional_cell_carcinoma	TCCSUP	Bladder_Urinary_Tract	Bladder Urothelial Carcinoma (BLCA)	NA	NA	Epithelial-Mesenchymal
+U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U266B1	U266B1				88	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	U266B1	Blood	Multiple Myeloma (MM)	NA	NA	NA
+U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U937	U-937				89	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	U-937	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	NA
+UMUC3_URINARY_TRACT	UMUC3	UM-UC-3				90	urinary_tract: transitional_cell_carcinoma	UM-UC-3	Bladder_Urinary_Tract	Bladder Urothelial Carcinoma (BLCA)	NA	NA	Mesenchymal
