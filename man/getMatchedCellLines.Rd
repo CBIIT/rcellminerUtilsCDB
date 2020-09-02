@@ -20,6 +20,4 @@ Get a table of matched cell lines across data sources.
 getMatchedCellLines(c("ccle", "cgp", "nci60"))
 
 }
-\concept{
-rcellminerUtilsCDB
-}
+\concept{rcellminerUtilsCDB}

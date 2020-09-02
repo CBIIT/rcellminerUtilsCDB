@@ -30,6 +30,4 @@ emtResults <- getEmtScores(genedata,sampleOncoTree1)
 
 
 }
-\concept{
-rcellminerUtilsCDB
-}
+\concept{rcellminerUtilsCDB}

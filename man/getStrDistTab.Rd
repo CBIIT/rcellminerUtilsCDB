@@ -23,6 +23,4 @@ A data frame with rownames corresponding to the strings in
 Returns a table of approximate matches to a set of strings, with
 matches selected from a specified set.
 }
-\concept{
-rcellminerUtilsCDB
-}
+\concept{rcellminerUtilsCDB}

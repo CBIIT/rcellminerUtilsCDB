@@ -42,6 +42,4 @@ colnames(X) <- paste0("var_", seq_len(ncol(X)))
 pcaResults <- getPcaResults(X)
 
 }
-\concept{
-rcellminerUtils
-}
+\concept{rcellminerUtils}

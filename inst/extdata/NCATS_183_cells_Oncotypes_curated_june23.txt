@@ -1,0 +1,184 @@
+cell_name_ncats	disease_ncats	Cell_Name_source	TissueType_source	OncoTree1	OncoTree2	OncoTree3	OncoTree4	source	Comments
+A-375	Amelanotic melanoma	A-375	skin: malignant_melanoma	Skin	Melanoma (MEL)	NA	NA	ccle	
+A-549	Lung adenocarcinoma	A549	lung: non_small_cell_carcinoma	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	ccle	
+AMO1	Plasma cell myeloma	AMO-1	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+Caco-2	Colon adenocarcinoma	CACO2	Esophagus_Stomach	Bowel	NA	NA	NA	ccle	need to be corrected in ccle to be Bowel?
+CAL-27	Tongue squamous cell carcinoma	CAL 27	upper_aerodigestive_tract: squamous_cell_carcinoma	Head_Neck	NA	NA	NA	ccle	
+Daudi	Epstein-Barr virus-related Burkitt lymphoma	Daudi	haematopoietic_and_lymphoid_tissue: Burkitt_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Burkitt Lymphoma (BL)	ccle	
+DB	Diffuse large B-cell lymphoma	DB	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+Detroit 562	Pharyngeal squamous cell carcinoma	Detroit 562	upper_aerodigestive_tract: carcinoma	Head_Neck	NA	NA	NA	ccle	
+DLD-1	Colon adenocarcinoma	DLD-1	large_intestine: adenocarcinoma	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	ccle	
+DMS 114	Small cell lung carcinoma	DMS 114	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+DMS 79	Small cell lung carcinoma	DMS 79	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+DoHH2	Diffuse large B-cell lymphoma germinal center B-cell type	DOHH-2	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+DU145	Prostate carcinoma	DU 145	prostate: carcinoma	Prostate	NA	NA	NA	ccle	
+EJM	Plasma cell myeloma	EJM	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+EoL-1	"Chronic eosinophilic leukemia, not otherwise specified"	EOL-1	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	ccle	
+EW-8	Ewing sarcoma	EW8	bone: Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	Bone	Ewing Sarcoma (ES)	NA	NA	ccle	
+GDM-1	Adult acute myeloid leukemia	GDM-1	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	ccle	
+HCC1937	Ductal breast carcinoma	HCC1937	breast: ductal_carcinoma	Breast	Breast Carcinoma (BRCA)	Breast Invasive Ductal Carcinoma (IDC)	NA	ccle	
+HCT 116	Colon carcinoma	HCT 116	large_intestine: carcinoma	Bowel	NA	NA	NA	ccle	
+HDLM-2	Hodgkin lymphoma	HDLM-2	haematopoietic_and_lymphoid_tissue: Hodgkin_lymphoma	Lymph	Hodgkin's Lymphoma (HL)	NA	NA	ccle	
+HEL 92.1.7	Erythroleukemia	HEL 92.1.7	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	ccle	
+HNT-34	Adult acute myeloid leukemia	HNT34	Lymph	Lymph	NA	NA	NA	ccle	
+HT-1080	Fibrosarcoma	HT-1080	soft_tissue: fibrosarcoma	Soft_Tissue	Fibrosarcoma (FIBS)	NA	NA	ccle	
+HuT 102	Mycosis fungoides and Sezary syndrome	HuT 102	haematopoietic_and_lymphoid_tissue: mycosis_fungoides-Sezary_syndrome	Lymph	Non-Hodgkin's Lymphoma (NHL)	T-Cell and Natural Killer Lymphoma (TNKL)	NA	ccle	
+HuT 78	Mycosis fungoides and Sezary syndrome	HuT 78	haematopoietic_and_lymphoid_tissue: mycosis_fungoides-Sezary_syndrome	Lymph	Non-Hodgkin's Lymphoma (NHL)	T-Cell and Natural Killer Lymphoma (TNKL)	NA	ccle	
+IMR-32	Neuroblastoma	IMR-32	autonomic_ganglia: neuroblastoma	Brain_CNS	Embryonal Tumor (EMBT)	Neuroblastoma (NBL)	NA	ccle	
+JJN-3	Plasma cell myeloma	JJN-3	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+Karpas-620	Plasma cell myeloma	KARPAS-620	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KM-H2	Hodgkin lymphoma	KM-H2	haematopoietic_and_lymphoid_tissue: Hodgkin_lymphoma	Lymph	Hodgkin's Lymphoma (HL)	NA	NA	ccle	
+KMM-1	Plasma cell myeloma	KMM-1	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KMS-11	Plasma cell myeloma	KMS-11	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KMS-20	Plasma cell myeloma	KMS-20	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KMS-26	Plasma cell myeloma	KMS-26	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KMS-27	Plasma cell myeloma	KMS-27	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KMS-28BM	Plasma cell myeloma	KMS-28BM	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+KMS-34	Plasma cell myeloma	KMS-34	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+L-1236	Hodgkin lymphoma	L-1236	haematopoietic_and_lymphoid_tissue: Hodgkin_lymphoma	Lymph	Hodgkin's Lymphoma (HL)	NA	NA	ccle	
+L-363	Plasma cell myeloma	L-363	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+L-428	Hodgkin lymphoma	L-428	haematopoietic_and_lymphoid_tissue: Hodgkin_lymphoma	Lymph	Hodgkin's Lymphoma (HL)	NA	NA	ccle	
+L-540	Hodgkin lymphoma	L-540	haematopoietic_and_lymphoid_tissue: Hodgkin_lymphoma	Lymph	Hodgkin's Lymphoma (HL)	NA	NA	ccle	
+LN-229	Glioblastoma	LN-229	central_nervous_system: astrocytoma_Grade_IV	Brain_CNS	Diffuse Glioma (DIFG)	Astrocytoma (ASTR)	NA	ccle	
+LP-1	Plasma cell myeloma	LP-1	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+LS411N	Cecum adenocarcinoma	LS411N	large_intestine: adenocarcinoma	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	ccle	
+MDA-MB-436	"Invasive ductal carcinoma, not otherwise specified"	MDA-MB-436	breast: carcinoma	Breast	Breast Carcinoma (BRCA)	NA	NA	ccle	
+MIA PaCa-2	Pancreatic ductal adenocarcinoma	MIA PaCa-2	pancreas: ductal_carcinoma	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	ccle	
+MOLP-8	Plasma cell myeloma	MOLP-8	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+Mono-Mac-6	Adult acute monocytic leukemia	MONO-MAC-6	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	ccle	
+MOTN-1	T-cell large granular lymphocyte leukemia	MOTN-1	haematopoietic_and_lymphoid_tissue: T_cell_large_granular_lymphocytic_leukaemia	Blood	Leukemia (LEUK)	NA	NA	ccle	
+MV4-11	Childhood acute monocytic leukemia	MV-4-11	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	ccle	
+Namalwa	Epstein-Barr virus-related Burkitt lymphoma	NAMALWA	haematopoietic_and_lymphoid_tissue: Burkitt_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Burkitt Lymphoma (BL)	ccle	
+NCI-H1299	Large cell lung carcinoma	NCI-H1299	lung: non_small_cell_carcinoma	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	ccle	
+NCI-H196	Small cell lung carcinoma	NCI-H196	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+NCI-H2009	Lung adenocarcinoma	NCI-H2009	lung: adenocarcinoma	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	ccle	
+NCI-H2171	Small cell lung carcinoma	NCI-H2171	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+NCI-H292	Lung mucoepidermoid carcinoma	NCI-H292	lung: mucoepidermoid_carcinoma	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	ccle	
+NCI-H358	Minimally invasive lung adenocarcinoma	NCI-H358	lung: bronchioloalveolar_adenocarcinoma	Lung	Non-Small Cell Lung Cancer (NSCLC)	Lung Adenocarcinoma (LUAD)	NA	ccle	
+NCI-H446	Small cell lung carcinoma	NCI-H446	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+NCI-H524	Small cell lung carcinoma	NCI-H524	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+NCI-H810	Large cell lung carcinoma	NCI-H810	lung: large_cell_carcinoma	Lung	Non-Small Cell Lung Cancer (NSCLC)	NA	NA	ccle	
+NCI-H82	Small cell lung carcinoma	NCI-H82	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+NCI-H889	Small cell lung carcinoma	NCI-H889	lung: small_cell_carcinoma	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	ccle	
+NCI-H929	Plasma cell myeloma	NCI-H929	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+NOMO-1	Adult acute monocytic leukemia	NOMO-1	haematopoietic_and_lymphoid_tissue: acute_myeloid_leukaemia	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	ccle	
+OCI-Ly10	Diffuse large B-cell lymphoma	OCI-LY10	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+OCI-Ly3	Diffuse large B-cell lymphoma	OCI-LY3	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+OCI-My7	Plasma cell myeloma	OCIMY7	Lymph	Blood	NA	NA	NA	ccle	need to be corrected in ccle to be Blood ?
+OPM-1	Plasma cell myeloma	OPM1	Lymph	Blood	NA	NA	NA	ccle	need to be corrected in ccle to be Blood ?
+OPM-2	Plasma cell myeloma	OPM-2	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+OV-90	Ovarian adenocarcinoma	OV-90	ovary: mixed_carcinoma	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	ccle	
+OVCAR-8	High grade ovarian serous adenocarcinoma	OVCAR-8	ovary: carcinoma	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	ccle	
+PANC-1	Pancreatic ductal adenocarcinoma	PANC-1	pancreas: ductal_carcinoma	Pancreas	Pancreatic Adenocarcinoma (PAAD)	NA	NA	ccle	
+PCM6	Plasma cell myeloma	PCM6	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+RD	Embryonal rhabdomyosarcoma	RD	soft_tissue: embryonal	Soft_Tissue	Rhabdomyosarcoma (RMS)	NA	NA	ccle	
+RD-ES	Ewing sarcoma	RD-ES	bone: Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	Bone	Ewing Sarcoma (ES)	NA	NA	ccle	
+Rh30	Alveolar rhabdomyosarcoma	RH-30	soft_tissue: alveolar	Soft_Tissue	sarcoma	NA	NA	ccle	
+Rh41	Alveolar rhabdomyosarcoma	RH-41	soft_tissue: alveolar	Soft_Tissue	sarcoma	NA	NA	ccle	
+Ri-1	Diffuse large B-cell lymphoma activated B-cell type	RI-1	haematopoietic_and_lymphoid_tissue: B_cell_lymphoma_unspecified	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	NA	ccle	
+RKO	Colon carcinoma	RKO	large_intestine: adenocarcinoma	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	ccle	
+RPMI-8226	Plasma cell myeloma	RPMI 8226	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+RT-4	Bladder carcinoma	RT4	urinary_tract: transitional_cell_carcinoma	Bladder_Urinary_Tract	Bladder Urothelial Carcinoma (BLCA)	NA	NA	ccle	
+SaOS-2	Osteosarcoma	Saos-2	bone: osteosarcoma	Bone	Osteosarcoma (OS)	NA	NA	ccle	
+SH-SY5Y	Neuroblastoma	SH-SY5Y	autonomic_ganglia: neuroblastoma	Brain_CNS	Embryonal Tumor (EMBT)	Neuroblastoma (NBL)	NA	ccle	
+SK-N-AS	Neuroblastoma	SK-N-AS	autonomic_ganglia: neuroblastoma	Brain_CNS	Embryonal Tumor (EMBT)	Neuroblastoma (NBL)	NA	ccle	
+SK-OV-3	Ovarian serous cystadenocarcinoma	SK-OV-3	ovary: adenocarcinoma	Ovary	Ovarian Epithelial Tumor (OVT)	NA	NA	ccle	
+SNU-1196	Hilar cholangiocarcinoma	SNU-1196	biliary_tract: carcinoma	Biliary_Tract	NA	NA	NA	ccle	
+SU-DHL-1	"Anaplastic large cell lymphoma, ALK-positive"	SU-DHL-1	haematopoietic_and_lymphoid_tissue: anaplastic_large_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	T-Cell and Natural Killer Lymphoma (TNKL)	Anaplastic Large Cell Lymphoma (ALCL)	ccle	
+SU-DHL-4	Diffuse large B-cell lymphoma germinal center B-cell type	SU-DHL-4	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+SU-DHL-5	Diffuse large B-cell lymphoma germinal center B-cell type	SU-DHL-5	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+SU-DHL-6	Diffuse large B-cell lymphoma germinal center B-cell type	SU-DHL-6	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+SW1116	Colon adenocarcinoma	SW1116	large_intestine: adenocarcinoma	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	ccle	
+SW48	Colon adenocarcinoma	SW48	large_intestine: adenocarcinoma	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	ccle	
+SW620	Colon adenocarcinoma	SW620	large_intestine: adenocarcinoma	Bowel	Colorectal Adenocarcinoma (COADREAD)	NA	NA	ccle	
+T24	Bladder carcinoma	T24	urinary_tract: transitional_cell_carcinoma	Bladder_Urinary_Tract	Bladder Urothelial Carcinoma (BLCA)	NA	NA	ccle	
+TC-32	Primitive neuroectodermal tumor	TC-32	bone: Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	Bone	Ewing Sarcoma (ES)	NA	NA	ccle	
+TC-71	Ewing sarcoma	TC-71	bone: Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	Bone	Ewing Sarcoma (ES)	NA	NA	ccle	
+U266B1	Plasma cell myeloma	U266B1	haematopoietic_and_lymphoid_tissue: plasma_cell_myeloma	Blood	Multiple Myeloma (MM)	NA	NA	ccle	
+UM-UC-3	Bladder carcinoma	UM-UC-3	urinary_tract: transitional_cell_carcinoma	Bladder_Urinary_Tract	Bladder Urothelial Carcinoma (BLCA)	NA	NA	ccle	
+WSU-DLCL2	Diffuse large B-cell lymphoma germinal center B-cell type	WSU-DLCL2	haematopoietic_and_lymphoid_tissue: diffuse_large_B_cell_lymphoma	Lymph	Non-Hodgkin's Lymphoma (NHL)	B-Cell Lymphoma (BCL)	Diffuse Large B-Cell Lymphoma (DLBCL)	ccle	
+CCRF-CEM	Childhood T acute lymphoblastic leukemia	CCRF-CEM	NA	Blood	Leukemia (LEUK)	NA	NA	gdsc	
+G-292 clone A141B1	Osteosarcoma	G-292-Clone-A141B1	NA	Bone	Osteosarcoma (OS)	NA	NA	gdsc	
+HuO-3N1	Osteosarcoma	HuO-3N1	NA	Bone	Osteosarcoma (OS)	NA	NA	gdsc	
+ME-1 [Human leukemia]	Adult acute myeloid leukemia	ME-1	LAML	Blood	Leukemia (LEUK)	Acute Myeloid Leukemia (AML)	NA	gdsc	
+MM1.S	Plasma cell myeloma	MM1S	NA	Blood	Multiple Myeloma (MM)	NA	NA	gdsc	
+NCI-H1417	Small cell lung carcinoma	NCI-H1417	NA	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	gdsc	
+NCI-H187	Small cell lung carcinoma	NCI-H187	NOT_TCGA	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	gdsc	
+NCI-H748	Small cell lung carcinoma	NCI-H748	NA	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	gdsc	
+PEO1	BRCA2 syndrome	PEO1	OV	Ovary	NA	NA	NA	gdsc	
+RC-K8	Diffuse large B-cell lymphoma germinal center B-cell type	RC-K8	NA	Blood	NA	NA	NA	gdsc	
+U-87MG ATCC	Glioblastoma	U-87-MG	GBM	Brain_CNS	Diffuse Glioma (DIFG)	Astrocytoma (ASTR)	NA	gdsc	
+Rh36	Embryonal rhabdomyosarcoma	Rh36	Rhabdomyosarcoma 	Soft_Tissue	Rhabdomyosarcoma (RMS)	NA	NA	genSarcoma	
+RMS559	Embryonal rhabdomyosarcoma	RMS559	Rhabdomyosarcoma 	Soft_Tissue	Rhabdomyosarcoma (RMS)	NA	NA	genSarcoma	
+NCI-H2108	Small cell lung carcinoma	NCI-H2108	Small Cell Lung Cancer	Lung	Small Cell Lung Cancer (SCLC)	NA	NA	genSclc	
+KMS-12-PE	Plasma cell myeloma	KMS12PE	blood	Blood	NA	NA	NA	mdAnderson	need to ne corrected in MDA to be Blood
+UM-SCC-47	Tongue squamous cell carcinoma	UMSCC47	head and neck	head_neck	NA	NA	NA	mdAnderson	
+ARD	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+ARP-1	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+BJAB	Burkitt lymphoma	NA	NA	Lymph	NA	NA	NA	NA	
+BL-2	Burkitt lymphoma	NA	NA	Lymph	NA	NA	NA	NA	
+CAL-1 [Human plasmacytoid dendritic]	Blastic plasmacytoid dendritic cell neoplasm	NA	NA	Blood	NA	NA	NA	NA	
+CCA	Embryonal rhabdomyosarcoma	NA	NA	Soft_Tissue	NA	NA	NA	NA	
+D10	Melanoma	NA	NA	Skin	NA	NA	NA	NA	
+delta-47	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+DERL-2	Hepatosplenic T-cell lymphoma	NA	NA	Blood	NA	NA	NA	NA	
+FE-PD	"Anaplastic large cell lymphoma, ALK-negative"	NA	NA	Lymph	NA	NA	NA	NA	
+FR4	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+HBL-1 [Human diffuse large B-cell lymphoma]	Diffuse large B-cell lymphoma activated B-cell type	NA	NA	Lymph	NA	NA	NA	NA	
+HLY-1	Diffuse large B-cell lymphoma activated B-cell type	NA	NA	Lymph	NA	NA	NA	NA	
+JHH-136	Glioblastoma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+JHH-520	Glioblastoma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+JHH-DIPG-1	Diffuse intrinsic pontine glioma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+JIM3	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+JK-6L	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+Karpas-1718	Splenic marginal zone lymphoma	NA	NA	Blood	NA	NA	NA	NA	
+Karpas-25	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+KG-1a	Adult acute myeloid leukemia	NA	NA	Lymph	NA	NA	NA	NA	
+KHM-11	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+Mac-1	Cutaneous T-cell non-Hodgkin lymphoma	NA	NA	Blood	NA	NA	NA	NA	
+Mac-2A	"Anaplastic large cell lymphoma, ALK-negative"	NA	NA	Lymph	NA	NA	NA	NA	
+Mac-2B	"Anaplastic large cell lymphoma, ALK-negative"	NA	NA	Lymph	NA	NA	NA	NA	
+MM-M1	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+MM.1-144	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+MM1.R	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+MOLM-14	Adult acute myeloid leukemia	NA	NA	Blood	NA	NA	NA	NA	
+NCI-H1112	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+OCI-Ly12	"Malignant non-Hodgkin lymphoma, cleaved cell"	NA	NA	Lymph	NA	NA	NA	NA	
+OCI-Ly18	Diffuse large B-cell lymphoma	NA	NA	Lymph	NA	NA	NA	NA	
+OCI-Ly8	Diffuse large B-cell lymphoma	NA	NA	Lymph	NA	NA	NA	NA	
+OCI-My1	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+PE-2	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+PEO4	BRCA2 syndrome	NA	NA	Ovary	NA	NA	NA	NA	
+PMDC05	Blastic plasmacytoid dendritic cell neoplasm	NA	NA	Blood	NA	NA	NA	NA	
+SACHI	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+Sez-4	Mycosis fungoides and Sezary syndrome	NA	NA	Lymph	NA	NA	NA	NA	
+SH-EP	Neuroblastoma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+SK-MM-1	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+SU-DHL-2	Diffuse large B-cell lymphoma activated B-cell type	NA	NA	Lymph	NA	NA	NA	NA	
+SU-DHL-9	Diffuse large B-cell lymphoma germinal center B-cell type	NA	NA	Lymph	NA	NA	NA	NA	
+SU-DIPG-IV	Diffuse intrinsic pontine glioma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+SU-DIPG-VI	Diffuse intrinsic pontine glioma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+SU-DIPG-XIII	Diffuse intrinsic pontine glioma	NA	NA	Brain_CNS	NA	NA	NA	NA	
+T24T	Bladder carcinoma	NA	NA	Bladder_Urinary_Tract	NA	NA	NA	NA	
+T24T FL3	Bladder carcinoma	NA	NA	Bladder_Urinary_Tract	NA	NA	NA	NA	
+Thomas	Burkitt lymphoma	NA	NA	Lymph	NA	NA	NA	NA	
+TLBR-1	"Anaplastic large cell lymphoma, ALK-negative"	NA	NA	Lymph	NA	NA	NA	NA	
+TMD8	Diffuse large B-cell lymphoma activated B-cell type	NA	NA	Lymph	NA	NA	NA	NA	
+UM-SCC-17B	Laryngeal squamous cell carcinoma	NA	NA	Head_neck	NA	NA	NA	NA	
+UM-UC-3-LuL-2	Bladder carcinoma	NA	NA	Bladder_Urinary_Tract	NA	NA	NA	NA	
+UOK102	Clear cell renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK109	Renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions	NA	NA	Kidney	NA	NA	NA	NA	
+UOK120	Papillary renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK121	Renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK122	Clear cell renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK124	Papillary renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK130	Renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK139	Renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK145	Renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions	NA	NA	Kidney	NA	NA	NA	NA	
+UOK146	Papillary renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK161	Renal cell carcinoma	NA	NA	Kidney	NA	NA	NA	NA	
+UOK257	Birt-Hogg-Dube syndrome	NA	NA	Kidney	NA	NA	NA	NA	
+UOK262	Hereditary leiomyomatosis and renal cell cancer	NA	NA	Kidney	NA	NA	NA	NA	
+Wittier	Gallbladder carcinoma	NA	NA	Biliary_Tract	NA	NA	NA	NA	
+XG-1	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	
+XG-6	Plasma cell myeloma	NA	NA	Blood	NA	NA	NA	NA	

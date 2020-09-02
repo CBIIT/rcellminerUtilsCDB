@@ -20,6 +20,4 @@ Results <- getGeneSynonyms("CGAS")
 
 
 }
-\concept{
-rcellminerUtilsCDB
-}
+\concept{rcellminerUtilsCDB}

@@ -25,6 +25,4 @@ the named drug, if available.
 getDbDrugIds(drugName = "Topotecan", dbName = "nci60")
 
 }
-\concept{
-rcellminerUtilsCDB
-}
+\concept{rcellminerUtilsCDB}
