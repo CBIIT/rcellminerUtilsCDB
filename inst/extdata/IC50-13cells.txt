@@ -1,0 +1,14 @@
+Organ	Cellline	IC50
+Lung	A549	952.6
+Lung	DMS-114	194.2
+Prostate	DU-145	249.8
+Lung	NCI-H1299	242.7
+Lung	NCI-H146	87.5
+Lung	NCI-H209	100.8
+Lung	NCI-H446	241.3
+Lung	NCI-H82	101.5
+Bowel	HCT-116	424.9
+Blood	K-562	232.3
+Bone	Saos-2	148.4
+Ovary	SK-OV-3	432.6
+Bone	U-2-OS	243.1
