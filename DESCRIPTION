@@ -1,13 +1,13 @@
 Package: rcellminerUtilsCDB
 Title: rcellminerUtilsCDB
-Version: 1.1.7
-Date: 2021-01-19
+Version: 1.1.8
+Date: 2021-05-08
 Author: Vinodh Rajapakse, Augustin Luna
 Maintainer: Fathi Elloumi <fathi.elloumi@nih.gov>
 Description: Utility functions for rcellminer package
 License: LGPL-3
 Depends:
-    R (>= 3.1.1)
+    R (>= 3.5)
 Imports:
     rcellminer (>= 2.0.0),
     rcellminerData (>= 2.0.0),
@@ -20,5 +20,5 @@ Suggests:
     Biobase
 LazyData: true
 VignetteBuilder: knitr
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Encoding: UTF-8
