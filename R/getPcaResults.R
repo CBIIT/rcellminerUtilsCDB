@@ -30,6 +30,7 @@
 #'
 #' @concept rcellminerUtils
 #' @export
+#' @importFrom stats prcomp
 getPcaResults <- function(X, center = TRUE, scale = TRUE){
   prcompOut <- prcomp(x = X, center = center, scale = scale)
 

@@ -19,6 +19,7 @@
 #'
 #' @concept rcellminerUtilsCDB
 #' @export
+#' @importFrom stats prcomp sd setNames
 getEmtScores <- function(genedata,sampleOncoTree1){
 
 ## expDataType <- "xai" NOT ZSCORE !!!
