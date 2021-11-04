@@ -1,5 +1,10 @@
 #' Get a named list mapping from tissue types to associated samples.
 #'
+#' @param sampleData a sample data information from a data package
+#' @param typeLevelSeparator level separator
+#'
+#' @return list of all oncotree levels with assigned samples
+#'
 #'
 #' @concept rcellminerUtilsCDB
 #' @export

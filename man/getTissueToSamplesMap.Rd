@@ -6,6 +6,14 @@
 \usage{
 getTissueToSamplesMap(sampleData, typeLevelSeparator = ":")
 }
+\arguments{
+\item{sampleData}{a sample data information from a data package}
+
+\item{typeLevelSeparator}{level separator}
+}
+\value{
+list of all oncotree levels with assigned samples
+}
 \description{
 Get a named list mapping from tissue types to associated samples.
 }
