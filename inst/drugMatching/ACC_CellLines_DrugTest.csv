@@ -1,0 +1,42 @@
+﻿Drug name,NSC,Synonyms,MOA,Clinical status,CU-ACC1 - cell line,CU-ACC2 - cell line,H295R - cell line,SW-13 - cell line
+Mitotane,755849,"o,p'-DDD",Cytochrome P450 3A4 inducer,FDA approved,10.72,65.86,8.131,15.97
+IPI-549,795067,Eganelisib,PI3K,Clinical trial,10.7,9.27,21.1,42
+ICG-001,756641,,β-catenin,Clinical trial,9.87,,,18.6
+H-89,755766,N-[2-(4-bromocinnamylamino)ethyl]isoquinoline-5-sulfonamide,PKA,Experimental,14,10.4,41.5,23.3
+Linsitinib,756652,OSI-906,IGF-1R and Insulin receptor,Clinical trial,,,0.567,22.5
+Berzosertib,777718,"M6620, VX-970",ATR,Clinical trial,6.6,4.72,8.53,2.22
+BAY-1895344,800525,Elimusertib,ATR,Clinical trial,0.678,0.0124,0.000203,0.0000152
+Palbociclib,758247,PD-0332991,CDK4/6,FDA approved,19.2,17.8,27.5,23
+Ribociclib,778909,LEE011,CDK4/6,FDA approved,49.3,124,48.7,62.8
+LY2090314,772198,,GSK3,Clinical trial,22.6,1.05,39.8,24.1
+Entinostat,706995,"SNDX-275, ms-275",Histone deacetylase,Clinical trial,0.718,2.65,2.67,5.43
+Ipatasertib,767898,"GDC-0068, RG7440",AKT,Clinical trial,0.0224,0.00121,,0.629
+Mifepristone,759862,RU-486,PgR,FDA approved,,1070,,18.1
+LGK-974,777639,WNT974,PORCN,Clinical trial,7.1,2.2,,104
+Tipifarnib,702818,"Zarnestra, R115777",farnesyltransferase,Clinical trial,10.3,12.4,,3.74
+MK-2206,756656,,AKT,Clinical trial,6.68,4.03,4.73,3.59
+Aldoxorubicin,784722,,TOP2,Clinical trial,1.45,1.4,5.33,1.34
+Ulixertinib,797771,"BVD-523, VRT752271",ERK1/2,Clinical trial,10.9,2.83,4.13,10.2
+Dinaciclib,747135,"SCH727965, MK-7965",CDK1/2/5/9,Clinical trial,0.0635,0.293,,
+Navitoclax,759659,ABT-263,Bcl-2,Clinical trial,3.91,6.97,5.93,3.61
+Dovitinib,759661,TKI-258,"FLT3, c-Kit, FGFR",Clinical trial,19.3,7.64,,2.19
+Sunitinib,750690,SU11248,"VEGFR, PDGFR, c-KIT",FDA approved,31.1,5.76,,5.95
+Entrectinib,774769,RXDX-101,"TRK, ROS1, ALK",FDA approved,11.4,4.58,,3.03
+Dacomitinib,765888,PF299804,EGFR,FDA approved,26.9,12.2,,2.1
+5-Azacitidine,758186,Ladakamycin,DNA methyltransferase,FDA approved,46.4,20.8,,7.82
+OTS-167,801013,OTSSP167,MELK,Clinical trial,0.000135,0.07,0.468,0.717
+Vincristine sulfate,67574,,tubulin,FDA approved,0.0000582,,0.000000118,0.000479
+Cabozantinib,761068,"BMS-907351, XL-184","MET, RET, VEGFR, KIT, FLT-3, TIE-2, TRKB, AXL",FDA approved,14.4,26.2,15.3,6.21
+Cabazitaxel,761432,,tubulin,FDA approved,2200,82.9,,17.1
+Everolimus,733504,RAD-001,mTOR,FDA approved,64.4,57.9,340,46.3
+Vistusertib,767189,AZD-2014,mTOR,Clinical trial,0.18,9.33,,3.35
+Cobimetinib,768068,"GDC0973, XL518",MEK,FDA approved,8.5,2.03,,5.65
+Brigatinib,784728,AP-26113,"ALK, EGFR",FDA approved,0.353,0.615,,0.494
+Infigratinib,764487,BGJ-398,FGFR,FDA approved,12.07,2.92,4.028,11.27
+Capivasertib,764039,AZD5363,AKT,Clinical trial,4.216,2.67,4.203,2.355
+XL-228,778366,,"IGF1R, Aurora A, Bcr-Abl, Src, Lyn",Clinical trial,7.487,3.976,0.1526,222
+BMS-754807,758243,,"IGF1R, InsR",Clinical trial,3.952,0.1551,1.631,2.307
+Topotecan,641007,,TOP1,FDA approved,0.101,0.221,5.936,0.0267
+Doxorubicin,123127,,TOP2,FDA approved,0.143,0.197,1.313,0.166
+SJG136,694501,,DNA minor groove interstrand cross-linking,Clinical trial,0.00396,0.0059,0.0816,0.000804
+Temozolomide,759883,,AlkAg,FDA approved,10.58,47.59,41.89,32.03
