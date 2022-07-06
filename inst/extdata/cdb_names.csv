@@ -1,0 +1,22 @@
+db,full_name,short_name
+nci60,CellMiner NCI-60,NCI60
+gdscDec15,Sanger/MGH Genomics of Drug Sensitivity in Cancer,Sanger/MGH GDSC
+ccle,Broad/Novartis Cancer Cell Line Encyclopedia,Broad CCLE
+ctrp,Broad Cancer Therapeutics Response Portal,Broad CTRP
+almanac,NCI/DTP FDA 105 paired Drug Project,NCI ALMANAC
+ncats,National Center for Advancing Transational Sciences - NIH,NCATS
+tncats,National Center for Advancing Transational Sciences - NIH,NCATS
+ancats,National Center for Advancing Transational Sciences - NIH,NCATS
+mdaMills,MD Anderson Cell Lines Project,MDACC CLP
+uniSarcoma,NCI Sarcoma cell lines Project,NCI Sarcoma
+nciSclc,NCI/DTP Small Cell Lung Cancer Project,NCI SCLC
+utsw,University of Texas Southwestern,UTSW
+genSclc,NCI DTB,NCI DTB SCLC
+genSarcoma,NCI DTB,NCI DTB Sarcoma
+achilles,Project Achilles,Broad Achilles
+nob,NCI NOB,NCI NOB
+cshl,CSHL Histone,CSHL Histone
+lantern,Lantern Pharm,Lantern Pharm
+lantnci,CellMiner NCI-60,Lantern NCI60
+ukhyun,NCI/CCR DTB,NCI DTB
+prism,Broad Prism,Broad Prism
