@@ -20,3 +20,10 @@ lantern,Lantern Pharm,Lantern Pharm
 lantnci,CellMiner NCI-60,Lantern NCI60
 ukhyun,NCI/CCR DTB,NCI DTB
 prism,Broad Prism,Broad Prism
+sarcoma,NCI Sarcoma cell lines Project,NCI Sarcoma version 1
+gdsc1,Sanger/MGH Genomics of Drug Sensitivity in Cancer,Sanger/GDSC1
+gdsc2,Sanger/MGH Genomics of Drug Sensitivity in Cancer,Sanger/GDSC2
+accorg,ACC NCI plus surgical ,NCI ACC 
+pdxcellColorado,ACC Colorado plus PDX,Colorado ACC
+zurich,ACC Zurich University,Zurich ACC
+wurzburg,ACC Wurzburg University,Wurzburg ACC
