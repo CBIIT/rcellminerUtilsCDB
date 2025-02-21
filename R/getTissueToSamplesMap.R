@@ -5,7 +5,6 @@
 #'
 #' @return list of all oncotree levels with assigned samples
 #'
-#'
 #' @concept rcellminerUtilsCDB
 #' @export
 getTissueToSamplesMap <- function(sampleData, typeLevelSeparator = ":"){
