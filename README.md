@@ -41,7 +41,7 @@ The data objects cellLineMatchTab and drugSynonymTab all exist as R data.frames.
     -   RefSeq.IDs
     -   Ensembl.gene.ID
     -   NCBI.Gene.ID
-    -   all_synonyms: A list of vectors where each vector is a concatenation of Approved.symbol, Previous.symbols, and Synonyms\
+    -   all_synonyms: A list of vectors where each vector is a concatenation of Approved.symbol, Previous.symbols, and Synonyms
 -   geneToChromBand: This is a named vector where the names are chromosomal locations (e.g., 3q27.1) and the values are gene symbols. This data is taken from the HugoGeneSynonyms columns Chromosome and Approved.symbol
 
 # Installation
