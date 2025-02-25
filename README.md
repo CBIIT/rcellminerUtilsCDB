@@ -1,14 +1,14 @@
 # Description
 
-Utility functions for rcellminer package used by the [CellMinerCDB](https://github.com/CBIIT/cellminercdb) interactive web application for cell line pharmacogenomics data exploration. Data includes tables to map between drugs and cell lines from different datasets.
+Utility functions for rcellminer package used by the [CellMinerCDB](https://github.com/CBIIT/cellminercdb) interactive web application for cell line pharmacogenomics data exploration across datasets or data sources. These datasets share common cell lines and/or drugs but have or use different names or labels. To compare data between these datasets, we created mapping tables for cell lines and drugs.
 
 # Project Structure
 
 Key folders described below:
 
 -   data: Contains the following data files
-    -   cellLineMatchTab.RData: Mapping table of cell lines in different collections (e.g., NCI60) and [Cellosaurus](https://www.cellosaurus.org/) identifiers.
-    -   drugSynonymTab.RData: Mapping table of drugs from different collections and synonym names taken from [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+    -   cellLineMatchTab.RData: Mapping table of cell lines in different datasets (e.g., NCI60) and [Cellosaurus](https://www.cellosaurus.org/) identifiers.
+    -   drugSynonymTab.RData: Mapping table of drugs from different datasets and synonym names mainly taken from [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
     -   geneToChromBand.RData: Mapping table of genes to chromosomal locations
     -   HugoGeneSynonyms.RData: Mapping table of gene symbols to synonyms taken from [HGNC](https://www.genenames.org/)
 -   inst: Script updating the data files
@@ -24,10 +24,10 @@ Key folders described below:
 
 The data objects cellLineMatchTab and drugSynonymTab all exist as R data.frames. R scripts that update these objects should be placed in the inst folder and operate on a given data object.
 
--   cellLineMatchTab: Each column represents a different cell line dataset. Additionally, there are two columns that contain the Cellosaurus information:
+-   cellLineMatchTab: Each column represents a different cell line dataset. The first column is dedicated for NCI60 dataset with the NCI 60 cell lines names. Any new dataset should be added in the table with its cell lines names mapping the pre-existing datasets (columns). Additionally, there are two columns that contain the Cellosaurus information:
     -   cellosaurus_accession (an identifier in the form CVCL_IW49)
     -   cellosaurus_identifier (the human readable name for the given cellosaurus_accession value)
-- drugSynonymTab: Each column represents a different cell line dataset. Additionally, there is the NAME_SET column that contains synonyms as a list of vectors. Currently, synonyms have been populated using content from PubChem, but others may be added.
+- drugSynonymTab: The first column is the NAME_SET column that contains synonyms as a list of vectors. Currently, synonyms have been populated using content from PubChem, but others may be added. Each additional column represents a different cell line dataset starting by NCI60 drug list. The current table includes the list of most common drug across the existing datasets.
 
 ## Gene Information Mapping
 
