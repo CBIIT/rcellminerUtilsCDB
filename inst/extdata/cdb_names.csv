@@ -1,12 +1,13 @@
 db,full_name,short_name
 nci60,CellMiner NCI-60,NCI60
+nci60Hts384,CellMiner NCI-60 HTS384,NCI60 HTS384
 gdscDec15,Sanger/MGH Genomics of Drug Sensitivity in Cancer,Sanger/MGH GDSC
 ccle,Broad/Novartis Cancer Cell Line Encyclopedia,Broad CCLE
 ctrp,Broad Cancer Therapeutics Response Portal,Broad CTRP
 almanac,NCI/DTP FDA 105 paired Drug Project,NCI ALMANAC
 ncats,National Center for Advancing Transational Sciences - NIH,NCATS
-tncats,National Center for Advancing Transational Sciences - NIH,NCATS
-ancats,National Center for Advancing Transational Sciences - NIH,NCATS
+tncats,National Center for Advancing Transational Sciences - NIH,NCATS IC50
+ancats,National Center for Advancing Transational Sciences - NIH,NCATS AUC
 mdaMills,MD Anderson Cell Lines Project,MDACC CLP
 uniSarcoma,NCI Sarcoma cell lines Project,NCI Sarcoma
 nciSclc,NCI/DTP Small Cell Lung Cancer Project,NCI SCLC
