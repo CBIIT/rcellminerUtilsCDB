@@ -1,7 +1,7 @@
 Package: rcellminerUtilsCDB
 Title: rcellminerUtilsCDB
-Version: 1.4.7
-Date: 2025-05-12
+Version: 1.4.8
+Date: 2025-05-15
 Author: Vinodh Rajapakse, Augustin Luna
 Maintainer: Fathi Elloumi <fathi.elloumi@nih.gov>
 Description: Utility functions for rcellminer package used by CellMinerCDB, including data tables to map between drugs and cell lines from different datasets.
